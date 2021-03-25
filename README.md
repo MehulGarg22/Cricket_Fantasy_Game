@@ -5,3 +5,8 @@ It is an online game where you create a virtual team of real cricket players and
 2) SQLite Studio
 3) QT Designer
 4) Python IDLE
+<br>
+<br>
+<br>
+<br>
+<img align="left" alt="Website Image" width="100%" src="Website Display.png" />
