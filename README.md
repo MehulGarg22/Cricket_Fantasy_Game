@@ -9,4 +9,4 @@ It is an online game where you create a virtual team of real cricket players and
 <br>
 <br>
 <br>
-<img align="left" alt="Website Image" width="100%" src="Website Display.png" />
+<img align="left" alt="Application Image" width="100%" src="CricketFantasy.png" />
