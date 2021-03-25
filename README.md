@@ -5,8 +5,6 @@ It is an online game where you create a virtual team of real cricket players and
 2) SQLite Studio
 3) QT Designer
 4) Python IDLE
-<br>
-<br>
-<br>
+# Cricket_Fantasy_Game Preview
 <br>
 <img align="left" alt="Application Image" width="100%" src="CricketFantasy.png" />
