@@ -6,6 +6,10 @@ It is an online game where you create a virtual team of real cricket players and
 3) QT Designer
 4) Python IDLE
 
+# Cricket_Fantasy_Game Preview
+<br>
+<img align="left" alt="Application Image" width="100%" src="CricketFantasy.png" />
+
 # Guideline to Get Started
 
 1. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
@@ -50,6 +54,4 @@ It is an online game where you create a virtual team of real cricket players and
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-# Cricket_Fantasy_Game Preview
-<br>
-<img align="left" alt="Application Image" width="100%" src="CricketFantasy.png" />
+**Happy Learning 😄**
